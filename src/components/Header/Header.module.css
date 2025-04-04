@@ -1,0 +1,36 @@
+.header {
+  border-bottom: 1px solid var(--mantine-color-gray-3);
+}
+
+.inner {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.title {
+  color: #3C3B6E;
+  font-size: var(--mantine-font-size-md);
+  font-weight: 500;
+}
+
+.link {
+  display: block;
+  line-height: 1;
+  padding: 8px 12px;
+  border-radius: var(--mantine-radius-sm);
+  text-decoration: none;
+  color: #B22234;
+  font-size: var(--mantine-font-size-md);
+  font-weight: 500;
+
+}
+
+.linkActive {
+  &,
+  &:hover {
+    background-color: var(--mantine-primary-color-light);
+    color: var(--mantine-primary-color-light-contrast);
+  }
+} 
