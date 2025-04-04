@@ -1,7 +1,7 @@
 # Quorum Coding Challenge - UI
 
 This project is the frontend UI for the Quorum Coding Challenge.
-Tech Stack: React, qReact Query, Vite, TypeScript, MantineUI.
+Tech Stack: React, React Query, Vite, TypeScript, MantineUI.
 
 It allows users to view information about US bills and legislators, including vote summaries and legislator voting activity.
 
