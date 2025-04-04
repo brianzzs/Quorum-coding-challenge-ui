@@ -32,11 +32,12 @@ Please refer to the `README.md` file within the `quorum-coding-challenge-api` di
 ## Running the Project
 
 1.  **Ensure the backend API is running** (see Backend API Setup folder).
-2.  **Start the frontend development server**:
+    The backend API project repository can be found here: [Quorum Coding Challenge UI](https://github.com/brianzzs/Quorum-coding-challenge-API)
+3.  **Start the frontend development server**:
     ```bash
     npm run dev
     ```
-3.  Open your web browser and navigate to the local URL provided by Vite (usually `http://localhost:5173` or similar).
+4.  Open your web browser and navigate to the local URL provided by Vite (usually `http://localhost:5173` or similar).
 
 ## Project Structure Highlights
 
