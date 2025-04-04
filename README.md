@@ -18,13 +18,13 @@ This frontend requires the companion backend API (`quorum-coding-challenge-api`)
 Please refer to the `README.md` file within the `quorum-coding-challenge-api` directory for instructions on how to set up and run the backend server.
 
 ## Frontend Setup
-
-1.  **Navigate to the project directory**:
+1.  **Clone the repository**
+2.  **Navigate to the project directory**:
     ```bash
     cd quorum-coding-challenge-ui
     ```
 
-2.  **Install dependencies**:
+3.  **Install dependencies**:
     ```bash
     npm install
     ```
